@@ -1,0 +1,13 @@
+main section{
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #dbd0d0;
+    padding: 30px 20px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.blog p{
+    font-size: 20px;
+
+}
